@@ -1,2 +1,2 @@
-# sitecmu.github.io
-Repository for Site Li's academic research website.
+# zimingbinn.github.io
+Repository for Ziming Wang's academic research website.
